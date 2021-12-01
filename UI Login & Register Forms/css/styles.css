@@ -1,0 +1,154 @@
+/*----- Global Styles -----*/
+html{
+    box-sizing: border-box;
+    font-size: 62.5%; /*This means 1rem = 10px*/
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* ----- Form Container Styles ----- */
+.form-container{
+    width: 80rem;
+    height: 50rem;
+    margin: auto;
+    border-radius: 3rem;
+    display: flex;
+    box-shadow: 0 .9rem 3.9rem -1.6rem rgba(0,0,0, 0.57);
+}
+
+/* ----- Form Styles ----- */
+.form-container .form{
+    width: 40rem;
+    height: 100%;
+    padding: 3rem 5rem 0 5rem;
+    background-color: #fff;
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+}
+
+.form-container .form p{
+    text-align: center;
+    color: #212529;
+    margin-bottom: 3rem;
+}
+
+/* ----- Inputs ----- */
+.input-container{
+    width: 100%;
+    border: 1px solid rgba(37, 38, 41, 0.5);
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.5rem;
+    border-radius: 2.5rem;
+}
+
+.input-container .fas{
+    margin-left: 1.5rem;
+    color: rgba(37, 38, 41, 0.5);
+}
+
+.input-container input[type="text"], input[type="email"], input[type="password"]{
+    width: 100%;
+    padding: 1rem;
+    border: none;
+    border-radius: 2.5rem;
+}
+
+.input-container input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus{
+outline: none;    
+}
+
+/* ----- Remember Me/ Terms ----- */
+.form .terms, .form .remember-me{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.form .remember-me{
+    margin-bottom: 2rem;
+}
+
+.form .terms p{
+    margin-top: 0;
+}
+
+.form .terms input[type="checkbox"], .form .remember-me input[type="checkbox"]{
+    margin-right:1rem;
+}
+
+.form a{
+    color: #6411ad;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.form .remember-me p{
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+.form .terms p{
+    font-size: 1.3rem;
+}
+
+/* ----- Register / Login button ----- */
+.form input[type="submit"]{
+    background-color: #21d4fd;
+    background-image: linear-gradient(90deg, #21d4fd 0%, #6411ad 100%);
+    border: none;
+    display: block;
+    margin: auto;
+    padding: 1rem 5rem;
+    border-radius: 2.5rem;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.form input[type="submit"]{
+    cursor: pointer;
+}
+
+/* ----- To Login / To Register ----- */
+.go-to-login p,a, .go-to-register p,a{
+    font-size: 1.3rem;
+}
+
+/* ----- Hero ----- */
+.hero{
+    width: 40rem;
+    height: 100%;
+    background-color: #21d4fd;
+    background-image: linear-gradient(180deg, #21d4fd 0%, #6411ad 100%);
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 5rem;
+}
+
+.hero .hero-text{
+    color: #fff;
+    line-height: 1.5;
+}
