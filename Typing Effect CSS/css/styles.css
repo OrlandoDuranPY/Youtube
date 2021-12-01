@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-family: 'Abel', sans-serif;
+    user-select: none;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+h1{
+    font-size: 50px;
+    color: #fff;
+    letter-spacing: 8px;
+    border-right: 2px solid #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    /*Animations*/
+    animation: typing 4s steps(30,end), blink step-end 0.5s infinite;
+}
+
+
+/*Typing Animation*/
+@keyframes typing{
+    from{
+        width: 0%;
+    }
+    to{
+        width: 100%;
+    }
+}
+
+/*Cursor Animation*/
+@keyframes blink{
+    from,to{
+        border-color: transparent;
+    }
+    50%{
+        border-color: #fff;
+    }
+}
