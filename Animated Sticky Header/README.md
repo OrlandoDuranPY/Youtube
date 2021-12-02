@@ -1,8 +1,6 @@
 # Animated Sticky Header
 
-## Content
-
-In this repository you will find the code for an animated navigation bar. I used only three technologies:
+Here is the code for a Animated navigation bar. I only used three technologies.
 
 - HTML5
 - CSS3
