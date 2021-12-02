@@ -8,7 +8,7 @@ Most of the examples are made with HTML5, CSS3 and Javascript, although I don't 
 
 ## Don't forget to ⭐ this repository.
 
-If you liked any of the examples made, i would like you to star my repository, it would help me a lot.
+If you liked any of the examples made, i would like you to ⭐ my repository, it would help me a lot.
 
 ## Follow me on my social networks.
 
