@@ -1,6 +1,6 @@
 # Animated Sticky Navbar
 
-Here is the code for a Animated navigation bar. I only used three technologies.
+This is a simple example of a navigation bar. I only used three technologies:
 
 - HTML5
 - CSS3
