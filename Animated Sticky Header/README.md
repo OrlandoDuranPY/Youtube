@@ -1,4 +1,4 @@
-# Animated Sticky Header
+# Animated Sticky Navbar
 
 Here is the code for a Animated navigation bar. I only used three technologies.
 
