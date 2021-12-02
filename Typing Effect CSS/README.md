@@ -1,3 +1,20 @@
-<h1 align=center>Typing Effect with CSS!</h1>
-<p align=center><img src="https://github.com/OrlandoDuranPY/Iconos/blob/main/GIF/Typing%20Effect.gif" alt="Typing Effect CSS"/></p>
-<p align=center>Hello there! 🤓 Here you have a simple animation using only HTML5 and CSS3 👾.</p>
+# Typing Effect
+
+Here is the code for a simple typing effect with CSS. I only used two technologies:
+- HTML
+- CSS
+
+## Preview
+
+## Don't forget to ⭐ this repository.
+
+If you liked any of the examples made, i would like you to ⭐ my repository, it would help me a lot.
+
+## Follow me on my social networks.
+
+- [Github](https://github.com/OrlandoDuranPY)
+- [Linkedin](https://www.linkedin.com/in/orlandoduranpy/)
+- [Youtube](https://www.youtube.com/channel/UCjyik2OU1z9zQoTeg3tyDAQ)
+
+![Sticky Header](https://user-images.githubusercontent.com/57104916/144188098-b93eb3ff-f775-48f9-bf1c-60276ccc8935.png)
+
