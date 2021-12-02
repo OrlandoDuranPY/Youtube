@@ -1,6 +1,6 @@
 # Animated Sticky Header
 
-### What will you find in this repository?
+## Content
 
 In this repository you will find the code for an animated navigation bar. I used only three technologies:
 
@@ -8,7 +8,7 @@ In this repository you will find the code for an animated navigation bar. I used
 - CSS3
 - Javascript
 
-Let me show you how does it looks like.
+## Preview
 
 
 ![StickyOnScrollMenu](https://user-images.githubusercontent.com/57104916/144175444-126e1379-866b-49dd-b114-78eaef1129e0.gif)
