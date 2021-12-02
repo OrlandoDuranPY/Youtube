@@ -6,8 +6,6 @@ Here is the code for a Login form. I only used two technologies:
 
 # Preview
 
-![](Login.jpg)
-
 ## Don't forget to ⭐ this repository.
 
 If you liked any of the examples made, i would like you to ⭐ my repository, it would help me a lot.
