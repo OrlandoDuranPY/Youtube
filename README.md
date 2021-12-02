@@ -12,6 +12,7 @@ If you liked any of the examples made, i would like you to ⭐ my repository, it
 
 ## Follow me on my social networks.
 
+- [Github](https://github.com/OrlandoDuranPY)
 - [Linkedin](https://www.linkedin.com/in/orlandoduranpy/)
 - [Youtube](https://www.youtube.com/channel/UCjyik2OU1z9zQoTeg3tyDAQ)
 
